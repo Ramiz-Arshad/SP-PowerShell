@@ -1,3 +1,2 @@
-﻿Group,Folder,Permission
-Procurement,MyDocuments/Bidding,Write - Delete
-Subcontractors,MyDocuments/Bidding,Write - Delete
+﻿ListName,Group,Folder,Permission
+Shared Documents,ZZ,Shared Documents/aa,Write - Delete
